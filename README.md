@@ -15,6 +15,7 @@ project-root/
 │     └─ default.conf
 ├─ react-frontend/
 │  ├─ Dockerfile
+|  ├─ nginx.conf
 │  └─ (React application files)
 ├─ mysql_data/ (created automatically)
 └─ minio_data/ (created automatically)
